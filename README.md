@@ -3,6 +3,7 @@
 > [!NOTE]
 > We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
 
+- [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) - 8-platform MCP client/host with built-in MCP marketplace. Consumes 100+ MCP servers behind a unified gateway with OAuth, rate limiting, and multi-tenant RLS. Apache 2.0. Demo: https://aizhs.top
 ## Sponsors
 
 <div align="center">
